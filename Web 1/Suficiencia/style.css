@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+nav a {
+    color: white !important;
+}
+
+img {
+    max-width: 100px;
+    height: auto;
+}
+
+.table th, .table td {
+    vertical-align: middle;
+    text-align: center;
+}
