@@ -1,0 +1,102 @@
+[
+  {
+    "ContainingType": "web2REST.Controllers.ComandaController",
+    "Method": "Get",
+    "RelativePath": "RestAPIFurb/Comanda/v{version}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "web2REST.Controllers.ComandaController",
+    "Method": "Post",
+    "RelativePath": "RestAPIFurb/Comanda/v{version}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "comanda",
+        "Type": "web2REST.Model.Comanda",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "web2REST.Controllers.ComandaController",
+    "Method": "Put",
+    "RelativePath": "RestAPIFurb/Comanda/v{version}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "comanda",
+        "Type": "web2REST.Model.Comanda",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "web2REST.Controllers.ComandaController",
+    "Method": "Get",
+    "RelativePath": "RestAPIFurb/Comanda/v{version}/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "web2REST.Controllers.ComandaController",
+    "Method": "Delete",
+    "RelativePath": "RestAPIFurb/Comanda/v{version}/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|c:\\users\\manerico\\desktop\\projects\\furb\\web 2\\web2rest\\web2rest\\business\\icomandasbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|solutionrelative:web2rest\\business\\icomandasbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|c:\\users\\manerico\\desktop\\projects\\furb\\web 2\\web2rest\\web2rest\\business\\implementations\\comandasbusinessimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|solutionrelative:web2rest\\business\\implementations\\comandasbusinessimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|c:\\users\\manerico\\desktop\\projects\\furb\\web 2\\web2rest\\web2rest\\repository\\implementations\\comandasrepositoryimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|solutionrelative:web2rest\\repository\\implementations\\comandasrepositoryimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|c:\\users\\manerico\\desktop\\projects\\furb\\web 2\\web2rest\\web2rest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|solutionrelative:web2rest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|c:\\users\\manerico\\desktop\\projects\\furb\\web 2\\web2rest\\web2rest\\repository\\generic\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|solutionrelative:web2rest\\repository\\generic\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|c:\\users\\manerico\\desktop\\projects\\furb\\web 2\\web2rest\\web2rest\\repository\\icomandasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|solutionrelative:web2rest\\repository\\icomandasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|c:\\users\\manerico\\desktop\\projects\\furb\\web 2\\web2rest\\web2rest\\dto\\comandadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|solutionrelative:web2rest\\dto\\comandadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|c:\\users\\manerico\\desktop\\projects\\furb\\web 2\\web2rest\\web2rest\\repository\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|solutionrelative:web2rest\\repository\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|c:\\users\\manerico\\desktop\\projects\\furb\\web 2\\web2rest\\web2rest\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|solutionrelative:web2rest\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|c:\\users\\manerico\\desktop\\projects\\furb\\web 2\\web2rest\\web2rest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|solutionrelative:web2rest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|c:\\users\\manerico\\desktop\\projects\\furb\\web 2\\web2rest\\web2rest\\model\\comanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|solutionrelative:web2rest\\model\\comanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|c:\\users\\manerico\\desktop\\projects\\furb\\web 2\\web2rest\\web2rest\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|solutionrelative:web2rest\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|c:\\users\\manerico\\desktop\\projects\\furb\\web 2\\web2rest\\web2rest\\model\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|solutionrelative:web2rest\\model\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|c:\\users\\manerico\\desktop\\projects\\furb\\web 2\\web2rest\\web2rest\\db\\migrations\\v2__create_table_produto.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|solutionrelative:web2rest\\db\\migrations\\v2__create_table_produto.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|c:\\users\\manerico\\desktop\\projects\\furb\\web 2\\web2rest\\web2rest\\db\\migrations\\v1__create_table_comanda.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|solutionrelative:web2rest\\db\\migrations\\v1__create_table_comanda.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|c:\\users\\manerico\\desktop\\projects\\furb\\web 2\\web2rest\\web2rest\\controllers\\comandacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|solutionrelative:web2rest\\controllers\\comandacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|c:\\users\\manerico\\desktop\\projects\\furb\\web 2\\web2rest\\web2rest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|solutionrelative:web2rest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|c:\\users\\manerico\\desktop\\projects\\furb\\web 2\\web2rest\\web2rest\\db\\migrations\\v1__create_table_comanda.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|solutionrelative:web2rest\\db\\migrations\\v1__create_table_comanda.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|c:\\users\\manerico\\desktop\\projects\\furb\\web 2\\web2rest\\web2rest\\db\\migrations\\v2__create_table_produto.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{5DDE990F-052A-4A53-99B5-7517A125D466}|web2REST\\web2REST.csproj|solutionrelative:web2rest\\db\\migrations\\v2__create_table_produto.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IComandasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\Repository\\IComandasRepository.cs",
+              "RelativeDocumentMoniker": "web2REST\\Repository\\IComandasRepository.cs",
+              "ToolTip": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\Repository\\IComandasRepository.cs",
+              "RelativeToolTip": "web2REST\\Repository\\IComandasRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T00:58:31.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComandasRepositoryImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\Repository\\Implementations\\ComandasRepositoryImplementation.cs",
+              "RelativeDocumentMoniker": "web2REST\\Repository\\Implementations\\ComandasRepositoryImplementation.cs",
+              "ToolTip": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\Repository\\Implementations\\ComandasRepositoryImplementation.cs",
+              "RelativeToolTip": "web2REST\\Repository\\Implementations\\ComandasRepositoryImplementation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T00:58:03.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\Model\\Produto.cs",
+              "RelativeDocumentMoniker": "web2REST\\Model\\Produto.cs",
+              "ToolTip": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\Model\\Produto.cs",
+              "RelativeToolTip": "web2REST\\Model\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T23:08:00.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\Repository\\Generic\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "web2REST\\Repository\\Generic\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\Repository\\Generic\\GenericRepository.cs",
+              "RelativeToolTip": "web2REST\\Repository\\Generic\\GenericRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwDoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T23:11:20.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\Repository\\Generic\\IRepository.cs",
+              "RelativeDocumentMoniker": "web2REST\\Repository\\Generic\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\Repository\\Generic\\IRepository.cs",
+              "RelativeToolTip": "web2REST\\Repository\\Generic\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T23:10:43.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IComandasBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\Business\\IComandasBusiness.cs",
+              "RelativeDocumentMoniker": "web2REST\\Business\\IComandasBusiness.cs",
+              "ToolTip": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\Business\\IComandasBusiness.cs",
+              "RelativeToolTip": "web2REST\\Business\\IComandasBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T23:18:49.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComandasBusinessImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\Business\\Implementations\\ComandasBusinessImplementation.cs",
+              "RelativeDocumentMoniker": "web2REST\\Business\\Implementations\\ComandasBusinessImplementation.cs",
+              "ToolTip": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\Business\\Implementations\\ComandasBusinessImplementation.cs",
+              "RelativeToolTip": "web2REST\\Business\\Implementations\\ComandasBusinessImplementation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T23:19:57.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\Program.cs",
+              "RelativeDocumentMoniker": "web2REST\\Program.cs",
+              "ToolTip": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\Program.cs",
+              "RelativeToolTip": "web2REST\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T23:27:13.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ComandaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\Dto\\ComandaDto.cs",
+              "RelativeDocumentMoniker": "web2REST\\Dto\\ComandaDto.cs",
+              "ToolTip": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\Dto\\ComandaDto.cs",
+              "RelativeToolTip": "web2REST\\Dto\\ComandaDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T00:50:12.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\appsettings.json",
+              "RelativeDocumentMoniker": "web2REST\\appsettings.json",
+              "ToolTip": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\appsettings.json",
+              "RelativeToolTip": "web2REST\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-05T23:25:11.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Comanda.cs",
+              "DocumentMoniker": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\Model\\Comanda.cs",
+              "RelativeDocumentMoniker": "web2REST\\Model\\Comanda.cs",
+              "ToolTip": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\Model\\Comanda.cs",
+              "RelativeToolTip": "web2REST\\Model\\Comanda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T23:04:52.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MySQLContext.cs",
+              "DocumentMoniker": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\Model\\Context\\MySQLContext.cs",
+              "RelativeDocumentMoniker": "web2REST\\Model\\Context\\MySQLContext.cs",
+              "ToolTip": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\Model\\Context\\MySQLContext.cs",
+              "RelativeToolTip": "web2REST\\Model\\Context\\MySQLContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T23:09:29.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\Model\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "web2REST\\Model\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\Model\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "web2REST\\Model\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T23:11:07.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "V2__Create_Table_Produto.sql ",
+              "DocumentMoniker": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\db\\migrations\\V2__Create_Table_Produto.sql",
+              "RelativeDocumentMoniker": "web2REST\\db\\migrations\\V2__Create_Table_Produto.sql",
+              "ToolTip": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\db\\migrations\\V2__Create_Table_Produto.sql",
+              "RelativeToolTip": "web2REST\\db\\migrations\\V2__Create_Table_Produto.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-05T22:58:10.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "V1__Create_Table_Comanda.sql ",
+              "DocumentMoniker": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\db\\migrations\\V1__Create_Table_Comanda.sql",
+              "RelativeDocumentMoniker": "web2REST\\db\\migrations\\V1__Create_Table_Comanda.sql",
+              "ToolTip": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\db\\migrations\\V1__Create_Table_Comanda.sql",
+              "RelativeToolTip": "web2REST\\db\\migrations\\V1__Create_Table_Comanda.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-05T22:30:28.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ComandaController.cs",
+              "DocumentMoniker": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\Controllers\\ComandaController.cs",
+              "RelativeDocumentMoniker": "web2REST\\Controllers\\ComandaController.cs",
+              "ToolTip": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\Controllers\\ComandaController.cs",
+              "RelativeToolTip": "web2REST\\Controllers\\ComandaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T23:13:25.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "web2REST\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Manerico\\Desktop\\Projects\\FURB\\Web 2\\web2REST\\web2REST\\Properties\\launchSettings.json",
+              "RelativeToolTip": "web2REST\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-05T23:26:27.255Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
